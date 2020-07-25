@@ -1,0 +1,54 @@
+.background {
+  background: url('img/bg.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  height:800px;
+  margin:0px;
+  width:100%;
+  padding:0px;
+}
+#logo {
+  width:200px;
+  position:fixed;
+  top:200px;
+  left:100px;
+}
+.dugme {
+  font-family: 'Montserrat', sans-serif;
+  padding:5px 10px;
+  /* border:1px solid #fff; */
+  box-shadow:none;
+  outline-width:0px;
+  background:#000;
+  text-decoration:none;
+  color:#fff;
+  margin-left:100px;
+  margin-top:600px;
+  position:fixed;
+
+}
+.dugme:hover{
+  color:#fff;
+  text-decoration:none;
+  border:none;
+
+}
+.social-footer {
+  height:300px;
+  width:100%;
+  margin:0px;
+  padding:0px;
+  background:rgb(27, 27, 27);
+}
+.social-row {
+  margin:0px;
+  padding:0px;
+}
+
+
+.link {
+  font-size:19px;
+
+}
