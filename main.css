@@ -50,5 +50,9 @@
 
 .link {
   font-size:19px;
-
+  color:#fff;
+}
+.link:hover {
+  text-decoration:none;
+  color:#000;
 }
