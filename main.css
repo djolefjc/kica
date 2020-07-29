@@ -41,15 +41,15 @@ background: url('img/bg.JPG') no-repeat center center fixed;
   width:100%;
   /* margin:0px;
   padding:0px; */
-  padding-top:5px;
-  padding-bottom:5px;
+  padding-top:30px;
+  padding-bottom:50px;
   background:rgb(27, 27, 27);
 }
 @media only screen and (max-width: 500px) {
   .social-footer {
     height:210px;
-    padding-top:5px;
-    padding-bottom:5px;
+    padding-top:30px;
+    padding-bottom:50px;
   }
 }
 .social-row {
@@ -59,7 +59,8 @@ background: url('img/bg.JPG') no-repeat center center fixed;
 
 
 .link {
-  font-size:22px;
+  font-size:16px;
+  text-transform: capitalize;
   margin:0px;
   color:#fff;
   text-align:center;
